@@ -1,5 +1,7 @@
 ## How to implement a custom app icon and a splash screen support for iOS PWA
 
+![Output sample](https://github.com/kariit/ios-pwa-splashscreen/demo.gif)
+
 __1. Add a service worker__
 
 ``` ng add @angular/pwa --project *project name* ```
