@@ -1,6 +1,6 @@
 ## How to implement a custom app icon and a splash screen support for iOS PWA
 
-![Output sample](https://github.com/kariit/ios-pwa-splashscreen/demo.gif)
+![Output sample](https://github.com/kariIT/ios-pwa-splashscreen/blob/master/demo.gif)
 
 __1. Add a service worker__
 
