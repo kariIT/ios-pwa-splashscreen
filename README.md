@@ -7,6 +7,7 @@ __1. Add a service worker__
 __2. Generate icons and splashscreen images__
 
 icons: [https://realfavicongenerator.net/]
+
 splashscreens: [https://appsco.pe/developer/splash-screens]
 
 __3. Add icons to manifest.webmanifest__
@@ -20,5 +21,7 @@ __3. Modify index.html__
 
 # Links
 Angular docs: [https://angular.io/guide/service-worker-getting-started]
+
 Apple docs: [https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html]
+
 Meta tags: [https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html]
