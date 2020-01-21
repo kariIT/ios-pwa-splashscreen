@@ -1,21 +1,22 @@
 # ios-pwa-splashscreen
 How to implement custom app icon and splash screen support for iOS to PWA
 
-# add a service worker
-ng add @angular/pwa --project *project name*
+Add a service worker
+-- ng add @angular/pwa --project *project name*
 
-# generate icons and splashscreen images
+Generate icons and splashscreen images
+
 icons: https://realfavicongenerator.net/
 splashscreens: https://appsco.pe/developer/splash-screens
 
-# add icons to manifest.webmanifest
+Add icons to manifest.webmanifest
 
-# modify index.html
-add meta, icons and splash screen images
+Modify index.html
+-- add meta, icons and splash screen images
 
-# build & serve
-ng build -prod
-http-server -p *port number* -c-1 dist/*projectname*
+# Build & serve
+-- ng build -prod
+-- http-server -p *port number* -c-1 dist/*projectname*
 
 # Links
 Angular docs: https://angular.io/guide/service-worker-getting-started
