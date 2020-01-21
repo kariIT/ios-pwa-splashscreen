@@ -2,9 +2,7 @@
 
 __1. Add a service worker__
 
-``` ng add @angular/pwa ```
-
-``` --project *project name* ```
+``` ng add @angular/pwa --project *project name* ```
 
 
 __2. Generate icons and splashscreen images__
