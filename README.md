@@ -1,4 +1,4 @@
-## How to implement custom app icon and splash screen support for iOS to PWA
+## How to implement a custom app icon and a splash screen support for iOS to PWA
 
 __1. Add a service worker__
 
