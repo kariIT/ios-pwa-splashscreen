@@ -22,7 +22,7 @@ __4. Modify index.html__
 add meta, icons and splash screen images
 
 ## Build & serve
-``` ng build -prod ```
+``` ng build --prod ```
 
 ``` http-server -p *port number* -c-1 dist/*projectname* ```
 
