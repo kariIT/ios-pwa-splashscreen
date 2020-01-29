@@ -4,7 +4,7 @@
 
 __1. Add a service worker__
 
-``` ng add @angular/pwa --project *project name* ```
+``` ng add @angular/pwa --project *project-name* ```
 
 
 __2. Generate icons and splashscreen images__
@@ -23,14 +23,14 @@ add meta, icons and splash screen images
 ```
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
-  <meta name="apple-mobile-web-app-title" content=" *project name* ">
+  <meta name="apple-mobile-web-app-title" content="*project-name*">
 ```
 
 
 ## Build & serve
 ``` ng build --prod ```
 
-``` http-server -p *port number* -c-1 dist/*projectname* ```
+``` http-server -p *port number* -c-1 dist/*project-name* ```
 
 ## Links
 Angular docs: https://angular.io/guide/service-worker-getting-started
