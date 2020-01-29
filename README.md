@@ -14,7 +14,14 @@ icons: https://realfavicongenerator.net/
 splashscreens: https://appsco.pe/developer/splash-screens
 
 
-__3. Add icons to manifest.webmanifest__
+__3. Add images to project__
+
+- place images somewhere fe. src/assets/
+
+- add icons to manifest.webmanifest/manifest.json
+    -> for iOS this is unnecessary, images are linked in index.html
+    
+- remember to set correct paths to images
 
 
 __4. Modify index.html__
