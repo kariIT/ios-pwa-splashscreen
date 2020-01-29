@@ -23,7 +23,7 @@ add meta, icons and splash screen images
 ```
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
-  <meta name="apple-mobile-web-app-title" content="ios-pwa-splashscreen">
+  <meta name="apple-mobile-web-app-title" content=" *project name* ">
 ```
 
 
