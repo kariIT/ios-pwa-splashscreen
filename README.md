@@ -20,8 +20,8 @@ __3. Add images to project__
 
 - place images somewhere fe. src/assets/
 
-- add icons to manifest.webmanifest/manifest.json
-    -> for iOS this is unnecessary, images are linked in index.html
+- add icons to manifest.webmanifest or manifest.json
+    </br> -> for iOS this is unnecessary, images are linked in index.html
     
 - remember to set correct paths to images
 
